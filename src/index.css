@@ -60,6 +60,7 @@ li button {
 
 li button:hover {
   border: darksalmon 0.1px solid;
+  cursor: pointer;
 }
 
 #row-input {
@@ -88,6 +89,7 @@ li button:hover {
 .button:hover {
   background: cornflowerblue;
   color: white;
+  cursor: pointer;
 }
 .won-move {
   background-color: darksalmon;
